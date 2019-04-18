@@ -30,12 +30,12 @@ body {
   float: left;
 }
 
-.rosa {
-  background: #ff75a0;
+.azul {
+  background: #009dff;
 }
 
-.rosa.light {
-  background: #ff96b7;
+.azul.light {
+  background: #66ceff;
 }
 
 .magenta {
@@ -43,23 +43,23 @@ body {
 }
 
 .magenta.light {
-  background: #ff2d6f;
+  background: #ff7ca5;
 }
 
-.hotpink {
-  background: #a8002a;
+.verde {
+  background: #00ba15;
 }
 
-.hotpink.light {
-  background: #ea1c4f;
+.verde.light {
+  background: #70ff9b;
 }
 
-.lila {
-  background: #ce5a89;
+.amarillo {
+  background: #ffae00;
 }
 
-.lila.light {
-  background: #db769f;
+.amarillo.light {
+  background: #fcec3c;
 }
 
 .btn-start {
